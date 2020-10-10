@@ -1,0 +1,14 @@
+<!DOCTYPE RCC>
+<RCC>
+
+<qresource prefix="img">
+<file alias="background">resources/img/background_home.jpg</file>
+<file alias="my_image">resources/img/profile.jpg</file>
+<file alias="knx">resources/img/knx_partner_logo.jpg</file>
+<file alias="szarik">resources/img/szarik.jpg</file>
+</qresource>
+
+<qresource prefix="certificates">
+<file alias="knx_certificate">resources/certificates/knx_certificate.pdf</file>
+</qresource>
+</RCC>
